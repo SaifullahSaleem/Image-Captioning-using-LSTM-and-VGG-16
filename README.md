@@ -44,10 +44,4 @@ This project implements an **Image Captioning System** using **VGG16 for feature
 - BLEU Score or other evaluation metrics can be used to measure accuracy.
 
 
-## Credits
-- **Dataset**: Flickr8k (https://www.kaggle.com/datasets)
-- **Pre-trained Model**: VGG16 (ImageNet)
-
-## Contact
-For any queries, reach out to [Your Email/Contact Info].
 
